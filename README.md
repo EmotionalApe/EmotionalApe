@@ -28,8 +28,6 @@ I am passionate about learning new technologies in the web and app space. I am p
 
 <a href="http://www.github.com/EmotionalApe"><img src="https://github-readme-stats.vercel.app/api?username=EmotionalApe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmotionalApe's GitHub stats" /></a>
 
-<a href="https://github.com/EmotionalApe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmotionalApe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/EmotionalApe/docAccessFrontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmotionalApe&repo=docAccessFrontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EmotionalApe/OPL-PC-Tools-32bit-Compiled" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmotionalApe&repo=OPL-PC-Tools-32bit-Compiled&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
